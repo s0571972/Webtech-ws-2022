@@ -4,6 +4,6 @@
 
 ###### Project description 
 
--> The aims of this project is to develope a web Plateform for the Gladys-beauty Style 
+-The aims of this project is to develope a web Plateform for the Gladys-beauty Style 
 
 
