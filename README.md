@@ -13,7 +13,15 @@
 
 
 ####  Development Enviroment and Resources
-[heading-1](#heading-1 "Goto heading-1")
+
+Name of Software  | SVersion 
+----------------  | -------------
+IntelliJ          | 2021
+Java jdk          | 16
+MySql Server      | 8.0.2
+Bootsrap          | 5.0
+MyLeaf            | --
+Spring-boot       | --
 
 
 
