@@ -14,7 +14,7 @@
 
 ####  Development Enviroment and Resources
 
-Name of Software  | SVersion 
+Name of Software  | Version 
 ----------------  | -------------
 IntelliJ          | 2021
 Java jdk          | 16
